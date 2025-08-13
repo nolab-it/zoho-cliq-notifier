@@ -1,0 +1,9 @@
+<j:jelly xmlns:j="jelly:core" xmlns:f="lib/form">
+    <f:entry title="Nombre" field="name">
+        <f:textbox/>
+    </f:entry>
+
+    <f:entry title="Webhook URL" field="webhookUrl">
+        <f:textbox/>
+    </f:entry>
+</j:jelly>
